@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.eba35594.css",
-    "main.js": "/static/js/main.cb2f4eed.js",
-    "static/js/787.aa8c1147.chunk.js": "/static/js/787.aa8c1147.chunk.js",
-    "static/media/profil.png": "/static/media/profil.02b2539d16affe8790a4.png",
-    "static/media/cv.pdf": "/static/media/cv.b0ed603f934d018cb50e.pdf",
-    "static/media/battleship.png": "/static/media/battleship.6de4ddccf64a2089f674.png",
-    "static/media/git.png": "/static/media/git.a776e70b059b3df83d8c.png",
-    "static/media/plan.png": "/static/media/plan.ae1ce11dce12498c0963.png",
-    "static/media/irc.png": "/static/media/irc.d06998c552e8b88fd12f.png",
-    "static/media/insta.png": "/static/media/insta.d41962d2a41701566f97.png",
-    "static/media/push.png": "/static/media/push.49a8f460f81053a0dfdb.png",
-    "static/media/snap.png": "/static/media/snap.80c9a947dc378cf6428c.png",
-    "index.html": "/index.html",
-    "main.eba35594.css.map": "/static/css/main.eba35594.css.map",
-    "main.cb2f4eed.js.map": "/static/js/main.cb2f4eed.js.map",
-    "787.aa8c1147.chunk.js.map": "/static/js/787.aa8c1147.chunk.js.map"
+    "main.css": "/tenimba_sangare.fr/static/css/main.eba35594.css",
+    "main.js": "/tenimba_sangare.fr/static/js/main.ce3f2cfa.js",
+    "static/js/787.aa8c1147.chunk.js": "/tenimba_sangare.fr/static/js/787.aa8c1147.chunk.js",
+    "static/media/profil.png": "/tenimba_sangare.fr/static/media/profil.02b2539d16affe8790a4.png",
+    "static/media/cv.pdf": "/tenimba_sangare.fr/static/media/cv.b0ed603f934d018cb50e.pdf",
+    "static/media/battleship.png": "/tenimba_sangare.fr/static/media/battleship.6de4ddccf64a2089f674.png",
+    "static/media/git.png": "/tenimba_sangare.fr/static/media/git.a776e70b059b3df83d8c.png",
+    "static/media/plan.png": "/tenimba_sangare.fr/static/media/plan.ae1ce11dce12498c0963.png",
+    "static/media/irc.png": "/tenimba_sangare.fr/static/media/irc.d06998c552e8b88fd12f.png",
+    "static/media/insta.png": "/tenimba_sangare.fr/static/media/insta.d41962d2a41701566f97.png",
+    "static/media/push.png": "/tenimba_sangare.fr/static/media/push.49a8f460f81053a0dfdb.png",
+    "static/media/snap.png": "/tenimba_sangare.fr/static/media/snap.80c9a947dc378cf6428c.png",
+    "index.html": "/tenimba_sangare.fr/index.html",
+    "main.eba35594.css.map": "/tenimba_sangare.fr/static/css/main.eba35594.css.map",
+    "main.ce3f2cfa.js.map": "/tenimba_sangare.fr/static/js/main.ce3f2cfa.js.map",
+    "787.aa8c1147.chunk.js.map": "/tenimba_sangare.fr/static/js/787.aa8c1147.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eba35594.css",
-    "static/js/main.cb2f4eed.js"
+    "static/js/main.ce3f2cfa.js"
   ]
 }
